@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentiment Analysis PCA</title>
-</head>
-<body>
-
 <h1>Sentiment Analysis PCA</h1>
 
 <p>This project performs sentiment analysis on customer feedback data using various natural language processing (NLP) techniques and clustering methods. The script processes the text data, identifies keywords and phrases, and visualizes the results using word clouds and scatter plots.</p>
